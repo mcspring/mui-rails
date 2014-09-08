@@ -1,6 +1,6 @@
 # Mui::Rails
 
-TODO: Write a gem description
+[Ratchet](https://github.com/twbs/ratchet) framework for Rails pipeline.
 
 ## Installation
 
