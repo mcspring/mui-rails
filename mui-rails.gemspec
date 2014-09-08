@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Mui::Rails::VERSION
   spec.authors       = ["Spring MC"]
   spec.email         = ["Heresy.MC@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Ratchet framework for Rails pipeline.}
+  spec.description   = %q{Ratchet framework of version 2.0.2}
   spec.homepage      = ""
   spec.license       = "MIT"
 
